@@ -16,6 +16,7 @@ remoyang/harbor-exporter:v2.3.0
 remoyang/prepare:v2.3.0
 remoyang/harbor-portal:v2.3.0
 remoyang/harbor-core:v2.3.0
+remoyang/swagger:v0.25.0
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
