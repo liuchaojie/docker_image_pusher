@@ -1,3 +1,3 @@
-amd64/mariadb:10.3.8
+aarch64/openjdk:8-jdk
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
