@@ -1,3 +1,3 @@
-xuchengen/nexus:arm64
+ktxcx/nexus3:3.35.0@sha256:ee10d39b4a9a425c0e6ead5585dcb3654bad21a6dbd7eb1d6221b343adcf62fc
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
